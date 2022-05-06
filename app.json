@@ -1,8 +1,8 @@
 {
-    "name": "Legend Music Player",
+    "name": "Dragon-X-Music",
     "description": "A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls",
-    "repository": "https://github.com/LEGEND-OS/MUSIC-VC",
-    "logo": "https://github.com/LEGEND-OS/MUSIC-VC/raw/main/theme/logo.png",
+    "repository": "https://github.com/DRAGON-X-OP/Dragon-X-Music",
+    "logo": "https://te.legra.ph/file/a867a3a8d173d740834b0.jpg",
     "stack": "container",
     "keywords": [
       "telegram",
